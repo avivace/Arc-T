@@ -7,6 +7,7 @@ For more information on this setup, see my [dotfiles](https://github.com/avivace
 
 ## Install (and update) 
 ```
+mkdir ~/.local/share/plasma/desktoptheme/
 git clone https://github.com/avivace/Arc-T
 mv Arc-T/ ~/.local/share/plasma/desktoptheme/
 ```
